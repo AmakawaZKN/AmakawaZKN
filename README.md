@@ -34,12 +34,8 @@
 ---
 
 ## Information
-> D-BOTZ-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> ZY4U BOT
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
-
-## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -71,29 +67,6 @@ npm start
 
 ## Edit file
 `./settings.js`
-```ts
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
-
-// Other
-global.botname = "D-BOTZ-Mdོ"
-global.ownername= "ᴹᴿ᭄ Diky Botzོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "dikybotz@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62895366380771"
-global.ownernomerr = "+62895366380771"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895366380771","62895366380771","62895366380771"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Diky Botz-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh Diky Botz' //sticker wm
-global.sessionName = 'session'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -101,20 +74,6 @@ global.sessionName = 'session'
 [`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
 
 ----------
-
-<p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
-
-## Donate
-- [Dana](+620895366380771)
-- [Ovo](+620895366380771)
-- [Gopay](+620895366380771)
-
-# Official Group D-BOTZ
-- [Group BOTZ](https://chat.whatsapp.com/KJHIhxvm0n0LvtgjPz9XYJ)
-
-
 
 
 # Thanks to
