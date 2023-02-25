@@ -1,5 +1,5 @@
 - <h1 align="center">📮 I'AM LEARNING JAVA SCRIPT 📮</h1>
-![IMG_20220320_184923_554](https://github.com/AmakawaZKN/BUGBOTT-/blob/master/ZyyykuN.jpg)
+![IMG_20220320_184923_554](https://github.com/AmakawaZKN/BUGBOTT-/blob/master/4ksanzz.jpg)
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Zykuan">
