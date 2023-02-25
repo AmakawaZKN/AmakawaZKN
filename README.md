@@ -39,19 +39,18 @@
 
 ## ```📮 SUPPORT DENGAN CARA DONASI```
 
-- [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
-- [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
+- [`DANA`](https://wa.me/628979440862?text=banh+ini+nomor+nya+kah+08979440862+?)
 > Jika ingin berdonasi lewat link
 > Klik [ SAWERIA ](https://saweria.co/AmakawaZyk)
   
-## ```📮 WHATSAPP KRIZYN OFFICIAL```
+## ```📮 WHATSAPP ZYKUAN OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
 - [`WHATSAPP KRIZYN OFC`](https://wa.me/628979440862?text=Assalamualaikum+Banh+Zy+gans)
 
 ## ```📮 CREATOR BOT```
- [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/amakawazkn) 
+ [![Zykuan](https://github.com/amakawazkn.png?size=200)](https://github.com/amakawazkn) 
 ---->
-[KrizynOfc](https://github.com/AmakawaZKN) 
+[Zykuan](https://github.com/AmakawaZKN) 
  CREATOR
   
 ## ```📮 ZYKUAN STATISTICS```
@@ -71,7 +70,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/krizynOfc template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/amakawazkn template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
 
