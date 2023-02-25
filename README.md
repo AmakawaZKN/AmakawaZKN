@@ -1,93 +1,94 @@
-<p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="XEZY" width="100"/>
+- <h1 align="center">📮 I'AM LEARNING JAVA SCRIPT 📮</h1>
+![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173377434-99bdde10-39d0-427d-bde2-89c04c4ed09a.jpg)
 
+<p align="center">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="krizyn">
 
 </p>
+<h1 align="center">🎧 KrizynOfc</h1>
 <p align="center">
-<a href="#"><img title="XEZY | XEY WITH ZYYKUAN" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+  <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+🐼 Zykuan;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+<a href="https://github.com/AmakawaZKN"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
+ </p>
+ <h4 align="center">
+  <a
+  <a href="https://wa.me/628979440862">If there is a need, you can directly chat with me </a>
+</h4>
 </p>
-</div>
 
 
----
-
-## Information
-> XEZY BOT
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
-
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
-
-# Instalasi
-## Heroku Buildpack
+## ```📮 ABOUT ME```
 ```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-## For Termux
-```ts
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/AmakawaZKN/namascript.git
-cd namascript
-pkg install yarn
-yarn install
-npm i -g typescript
-tsc -p ./node_modules/@adiwajshing/baileys-md/
-rm -rf session.json
-rm -rf store.json
-npm start
+- 👋 Hello, I’m @KrizynOfc
+- 👀 I’m interested in the media
+- 🌱 I'm just a beginner in this field
+- 💞️ I don't care what people say about me, I just want to give this a try
+- 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
 ```
 
-## Edit file
-`./settings.js`
-```
+## ```📮 FOLLOW SOSIAL MEDIA ME```
+<p align="center">
+<a href="https://instagram.com/mhdfakri_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/62895328590064"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/c/hokenbeusz"><img src="https://img.shields.io/badge/YOUTUBE Krizyn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
+<a href="https://tiktok.com/@unfaedahkan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+</p>
 
-## ```HOW TO DEPLOY```
+## ```📮 SUPPORT DENGAN CARA DONASI```
 
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
+- [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
+- [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
+> Jika ingin berdonasi lewat link
+> Klik [ SAWERIA ](https://saweria.co/Kricom)
 
-----------
+## ```📮 GROUP BOT```
+
+- [`GROUP WA BOT¹`](https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP)
+- [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
+  
+## ```📮 WHATSAPP KRIZYN OFFICIAL```
+  CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
+- [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
+
+## ```📮 CREATOR BOT```
+ [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
+---->
+[KrizynOfc](https://github.com/krizynofc) 
+ CREATOR
+  
+## ```📮 KRIZYN STATISTICS```
+
+[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+
+  ## ```📮 KRIZYN STATUS```
+  
+ <details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=KrizynOfc)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/krizynOfc template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details> 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=KrizynOfc&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizynofc&theme=vue">
 
 
-# Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
----|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
-Constributor | For Help |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
+## ```📮 AUTHOR```
+ 
+  [Zykuan](https://github.com/AmakawaZKn)
+ AUTHOR
 
+<!---
+I LOVE YOU GUYS
+--->
