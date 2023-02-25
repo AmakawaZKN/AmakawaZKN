@@ -2,16 +2,16 @@
 ![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173377434-99bdde10-39d0-427d-bde2-89c04c4ed09a.jpg)
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="krizyn">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Zykuan">
 
 </p>
-<h1 align="center">🎧 KrizynOfc</h1>
+<h1 align="center">🎧 Zykuan</h1>
 <p align="center">
   <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+🐼 Zykuan;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-<a href="https://github.com/AmakawaZKN"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AmakawaZKN"><img title="Author" src="https://img.shields.io/badge/AmakawaZKN-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
@@ -22,7 +22,7 @@
 
 ## ```📮 ABOUT ME```
 ```bash
-- 👋 Hello, I’m @KrizynOfc
+- 👋 Hello, I’m @Zykuan
 - 👀 I’m interested in the media
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try
@@ -31,10 +31,10 @@
 
 ## ```📮 FOLLOW SOSIAL MEDIA ME```
 <p align="center">
-<a href="https://instagram.com/mhdfakri_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/62895328590064"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/c/hokenbeusz"><img src="https://img.shields.io/badge/YOUTUBE Krizyn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
-<a href="https://tiktok.com/@unfaedahkan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+<a href="https://instagram.com/zyykn.jpn"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/628979440862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/c/akwzykuan"><img src="https://img.shields.io/badge/YOUTUBE Zykuan-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
+<a href="https://tiktok.com/@akwzykuan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
 ## ```📮 SUPPORT DENGAN CARA DONASI```
@@ -42,16 +42,11 @@
 - [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 - [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 > Jika ingin berdonasi lewat link
-> Klik [ SAWERIA ](https://saweria.co/Kricom)
-
-## ```📮 GROUP BOT```
-
-- [`GROUP WA BOT¹`](https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP)
-- [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
+> Klik [ SAWERIA ](https://saweria.co/AmakawaZyk)
   
 ## ```📮 WHATSAPP KRIZYN OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
+- [`WHATSAPP KRIZYN OFC`](https://wa.me/628979440862?text=Assalamualaikum+Banh+Zy+gans)
 
 ## ```📮 CREATOR BOT```
  [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
