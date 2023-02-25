@@ -1,4 +1,4 @@
-<h1 align="center">⛩AMAKAWA ZYKUAN⛩</h1>
+<h1 align="center">AMAKAWA ZYKUAN</h1>
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Haii+Welcome+To+My+Github.;I'am+Not+Programmer." alt="Zykuan">
 
