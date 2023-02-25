@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">ITS ME ZYKUAN</h1>
 <p align="center">
-  <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+Zykuan 🚀;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks!!!" alt="UwU">
+  <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+Zykuan 🚀;Learning+JavaScript!" alt="UwU">
 </p>
 
 <p align="center">
