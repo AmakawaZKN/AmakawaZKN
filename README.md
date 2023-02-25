@@ -36,15 +36,15 @@
 <a href="https://tiktok.com/@akwzykuan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@akwzykuan" /></a>
 </p>
 
-## ```🧧 SUPPORT DENGAN CARA DONASI```
+## ```🧧 SUPPORT ME```
 
-- [`DONATE`](https://wa.me/628979440862?text=banh+ini+nomor+nya+kah+08979440862+?)
-> Jika ingin berdonasi lewat link
-> Klik [ SAWERIA ](https://saweria.co/AmakawaZyk)
+- [`DONATE`](https://wa.me/628979440862?text=Is+it+right+with+zykuan+?)
+> If you want to donate via the link
+> Click [ SAWERIA ](https://saweria.co/AmakawaZyk)
   
 ## ```📩 CONTACT ZYKUAN OFFICIAL```
-  CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP ZYKUAN`](https://wa.me/628979440862?text=Assalamualaikum+Banh+Zy+gans)
+ CHAT ME IF YOU WANT TO ASK SOMETHING🚀
+- [`WHATSAPP ZYKUAN`](https://wa.me/628979440862?text=Haii+Amakawa+Zykuan)
 - [`EMAIL ZYKUAN`](zykuanofficials@gmail.com)
 
 ## ```🤖 CREATOR BOT```
