@@ -49,22 +49,22 @@
 - [`WHATSAPP KRIZYN OFC`](https://wa.me/628979440862?text=Assalamualaikum+Banh+Zy+gans)
 
 ## ```📮 CREATOR BOT```
- [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
+ [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/amakawazkn) 
 ---->
-[KrizynOfc](https://github.com/krizynofc) 
+[KrizynOfc](https://github.com/AmakawaZKN) 
  CREATOR
   
-## ```📮 KRIZYN STATISTICS```
+## ```📮 ZYKUAN STATISTICS```
 
-[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Zykuan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmakawaZKN&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Zykuan Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AmakawaZKN&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
-  ## ```📮 KRIZYN STATUS```
+  ## ```📮 ZYKUAN STATUS```
   
  <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=KrizynOfc)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AmakawaZKN)
 
 </details>
 
@@ -75,13 +75,13 @@
 
 </details> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=KrizynOfc&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizynofc&theme=vue">
+![github stats](https://github-readme-stats.vercel.app/api?username=AmakawaZKN&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amakawazkn&theme=vue">
 
 
 ## ```📮 AUTHOR```
  
-  [Zykuan](https://github.com/AmakawaZKn)
+  [Zykuan](https://github.com/AmakawaZKN)
  AUTHOR
 
 <!---
