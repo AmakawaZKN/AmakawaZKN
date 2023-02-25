@@ -2,12 +2,12 @@
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Haii+Welcome+To+My+Github.;I'am+Not+Programmer." alt="Zykuan">
 
-![IMG_20220320_184923_554](https://github.com/AmakawaZKN/BUGBOTT-/blob/master/4ksanzz.jpg)
+![IMG_20220320_184923_554](https://telegra.ph/file/a296326da141a2cf7da95.jpg)
 
 </p>
-<h1 align="center">🎧 Zykuan</h1>
+<h1 align="center">ITS ME ZYKUAN</h1>
 <p align="center">
-  <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+Zykuan 🚀;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/AmakawaZKN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Amakawa;My+Name+is+Zykuan 🚀;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks!!!" alt="UwU">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AmakawaZKN&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amakawazkn&theme=vue">
-
+  
   <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=Thank+Youu!+Love+You+Guys." alt="Zykuan">
 
