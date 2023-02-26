@@ -60,8 +60,9 @@
 
 ## ```📈 ZYKUAN STATISTICS```
 
-[![Zykuan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmakawaZKN&show_icons=true&hide=issues&theme=tokyonight)](https://github-readme-stats.vercel.app)
 [![Zykuan Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AmakawaZKN&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
+  
+[![Zykuan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmakawaZKN&show_icons=true&hide=issues&theme=tokyonight)](https://github-readme-stats.vercel.app)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmakawaZKN&theme=tokyonight&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 [![Zykuan Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zykuan&layout=compact&theme=tokyonight)](https://github.com/amakawazkn/github-readme-stats)
