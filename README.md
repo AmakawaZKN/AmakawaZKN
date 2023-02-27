@@ -29,7 +29,7 @@
 - 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
 ```
 
-## ```📲 FOLLOW SOSIAL MEDIA ME```
+## ```📲 MY SOSIAL MEDIA```
 <p align="center">
 <a href="https://instagram.com/zyykn.jpn"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/628979440862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -37,15 +37,16 @@
 </p>
 
 ## ```🧧 SUPPORT ME```
-
-- [`DONATE`](https://wa.me/628979440862?text=Is+it+right+with+zykuan+?)
-> If you want to donate via the link
-> Click [ SAWERIA ](https://saweria.co/AmakawaZyk)
+ Thank you for donation or support ><
+> [`SAWERIA`](https://saweria.co/AmakawaZyk)
+  
+> [`TRAKTEER`](trakteer.id/zykuan)
   
 ## ```📩 CONTACT ZYKUAN OFFICIAL```
  CHAT ME IF YOU WANT TO ASK SOMETHING🚀
-- [`WHATSAPP ZYKUAN`](https://wa.me/628979440862?text=Haii+Amakawa+Zykuan)
-- [`EMAIL ZYKUAN`](zykuanofficials@gmail.com)
+- [`EMAIL`](zykuanofficials@gmail.com)
+- [`WHATSAPP`](https://wa.me/628979440862?text=Haii+Amakawa+Zykuan)
+- [`INSTAGRAM`](https://instagram.com/zyykn.jpn)
 
 ## ```🤖 CREATOR BOT```
  [![Zykuan](https://github.com/amakawazkn.png?size=200)](https://github.com/amakawazkn) 
